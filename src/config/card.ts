@@ -69,7 +69,7 @@ export type CardConfig = {
 };
 
 export const card: CardConfig = {
-  siteUrl: "https://oneyoto.in",
+  siteUrl: "https://businesscardview.vercel.app",
 
   profile: {
     name: "Srinivasan Ramanujam",
